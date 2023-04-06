@@ -12,8 +12,8 @@ int main()
 {
 	system("chcp 1251>nul");
 	Fraction calc;
-	do{
-		calc.interface();
-	} while (calc.interface() != -2);
+	while(calc.interface()){
+
+	}
 	return 0;
 }
