@@ -1,0 +1,14 @@
+﻿  Fraction.cpp
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(14,54): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(14,43): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(18,59): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(18,48): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(22,57): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(22,46): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(26,25): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(26,14): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(30,56): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(30,45): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(46,18): warning C4244: return: преобразование "double" в "int", возможна потеря данных
+C:\Users\Макс\source\repos\OOP_DZ_1\OOP_DZ_1\Fraction.cpp(35): warning C4715: Fraction::interface: значение возвращается не при всех путях выполнения
+  OOP_DZ_1.vcxproj -> C:\Users\Макс\source\repos\OOP_DZ_1\x64\Debug\OOP_DZ_1.exe
